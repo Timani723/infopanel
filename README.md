@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+#📦 CRUD APPLICATION
 
-First, run the development server:
+## 📘 Overview
+This is a Full stack CRUD (Create, Read, Update, Delete) application built with React, Next.js, Typescript, Postgresql, Shadcn, Tailwindcss.
+It allows users to create, view, update and delete items in a clean and responsive interface.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
+- Add new user
+- View list of all users
+- Update/Edit previous user
+- Delete user
+- Fully responsive UI
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 Tech Stack
+- Frontend: React/ Next.js/ Typescript/ Shadcn-ui/ Tailwindcss.
+- Backend: PostgreSQL
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 How It Works
+- Open the app to view the **main dashboard** displaying all user names.
+- Click the **Add New** to add a new user.
+- Click the **Pen Icon** to edit a user.
+- Click the **Trash Icon** to delete a user.
+- All changes update instantly in the database.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 Screenshots
 
-## Learn More
+### Dashboard
+![Dashboard] (./screenshots/Dashboard.PNG)
 
-To learn more about Next.js, take a look at the following resources:
+### Add User
+![Add User] (./screenshots/Add User.PNG)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Edit
+![Edit] (./screenshots/Update User.PNG)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Delete
+![Delete] (./screenshots/Delete User.PNG)
 
-## Deploy on Vercel
+### Database
+![Database] (./screenshots/Database.PNG)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📝 Installation
+1. Clone the repository
+2. Install dependencies
+3. Run the application
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📝 Usage
+1. Open the app in your browser
+2. Add, view, update and delete users
+
+## 📝 Contributing
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
+
+## 📝 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
