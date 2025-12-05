@@ -29,13 +29,16 @@ It allows users to create, view, update and delete items in a clean and responsi
 ![Main Dashboard](./screenshots/Dashboard.PNG)
 
 ## Add New User
-![Add New User](./screenshots/AddNewUser.PNG)
+![Add New User](./screenshots/Add%20User.PNG)
 
 ## Edit User
-![Edit User](./screenshots/EditUser.PNG)
+![Edit User](./screenshots/Update%20User.PNG)
 
 ## Delete User
-![Delete User](./screenshots/DeleteUser.PNG)
+![Delete User](./screenshots/Delete%20User.PNG)
+
+## Database
+![Database](./screenshots/Database.PNG)
 
 
 
