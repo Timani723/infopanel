@@ -23,6 +23,20 @@ It allows users to create, view, update and delete items in a clean and responsi
 - Click the **Trash Icon** to delete a user.
 - All changes update instantly in the database.
 
+## 📌 Screenshots:
+
+## Main Dashboard
+![Main Dashboard](./screenshots/Dashboard.PNG)
+
+## Add New User
+![Add New User](./screenshots/AddNewUser.PNG)
+
+## Edit User
+![Edit User](./screenshots/EditUser.PNG)
+
+## Delete User
+![Delete User](./screenshots/DeleteUser.PNG)
+
 
 
 ## 📝 Installation
